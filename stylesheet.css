@@ -38,7 +38,7 @@ li {
 }
 .top-wrapper {
   padding: 90px 0px 80px 0px;
-  background-image: url("images/fotomain.jpg");
+  background-image: url("fotomain.jpg");
   background-size:cover;
   color: black;
   text-align: center;
@@ -131,7 +131,7 @@ li {
 .section3 {
   width: 880px;
   height: auto;
-  background-image: url("images/Background-animation1.jpeg");
+  background-image: url("Background-animation1.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   animation-name: animation-image;
@@ -142,8 +142,8 @@ li {
 }
 
 @keyframes animation-image {
-  from {background-image: url("images/Background-animation1.jpeg");}
-  to {background-image: url("images/Background-animation2.jpeg");}
+  from {background-image: url("Background-animation1.jpeg");}
+  to {background-image: url("Background-animation2.jpeg");}
 }
 
 .animation-section h1 {
